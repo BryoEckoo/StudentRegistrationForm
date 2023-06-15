@@ -6,9 +6,13 @@ Form that registers first time users to the system
 -After downloading the codes in a zip format extract it
 and save. Then follow the steps below;
 1.)Make sure you have downloaded and installed xampp.
+
 2.)Copy the projects folder into C:\xampp\htdocs.
+
 3.)Run xampp and set up the environment.
+
 4.)Copy the link provided to your browser and run it.
+
 
 ## Tools used
 
